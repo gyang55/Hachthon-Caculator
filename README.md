@@ -1,3 +1,4 @@
 # BCIT-Winter-Hack-Project
 
-This project clones a calculator and only has +-*/ functions.
+Tech stack: JS NodeJS express
+Convert decimal to different numeral representatiojn
